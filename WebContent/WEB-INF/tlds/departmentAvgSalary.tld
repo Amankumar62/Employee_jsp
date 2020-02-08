@@ -1,0 +1,15 @@
+<taglib>
+	<tlib-version>1.0</tlib-version>
+	<jsp-version>2.0</jsp-version>
+	<tag>
+		<name>deptAvg</name>
+		<tag-class>assignment.customTag.DepartmentCustomTag</tag-class>
+		<body-content>EMPTY</body-content>
+	<attribute>
+		<name>name</name>
+		<required>true</required>
+		<rtexplvalue>true</rtexplvalue>
+	</attribute>	
+	</tag>
+</taglib>
+

@@ -1,0 +1,10 @@
+<taglib>
+	<tlib-version>1.0</tlib-version>
+	<jsp-version>2.0</jsp-version>
+	<tag>
+		<name>employee</name>
+		<tag-class>assignment.customTag.ShowEmployee</tag-class>
+		<body-content>EMPTY</body-content>
+	</tag>
+</taglib>
+
